@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ROT-13_Verschlüsselung_Reforged", "ROT-13_Verschlüsselung_Reforged\ROT-13_Verschlüsselung_Reforged.csproj", "{2B650807-C5AB-4614-BAF0-86CE85DF8200}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ROT-Test", "ROT-Test\ROT-Test.csproj", "{6209ACD8-0D9D-4D34-9B6C-41FF8CFFA351}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2B650807-C5AB-4614-BAF0-86CE85DF8200}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B650807-C5AB-4614-BAF0-86CE85DF8200}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B650807-C5AB-4614-BAF0-86CE85DF8200}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B650807-C5AB-4614-BAF0-86CE85DF8200}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6209ACD8-0D9D-4D34-9B6C-41FF8CFFA351}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6209ACD8-0D9D-4D34-9B6C-41FF8CFFA351}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6209ACD8-0D9D-4D34-9B6C-41FF8CFFA351}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6209ACD8-0D9D-4D34-9B6C-41FF8CFFA351}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

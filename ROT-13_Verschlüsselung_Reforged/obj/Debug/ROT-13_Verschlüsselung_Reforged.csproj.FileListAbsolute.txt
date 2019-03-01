@@ -1,0 +1,6 @@
+Z:\Programmierung\VisualStudio\Konsolenanwendungen\ROT-13_Verschlüsselung_Reforged\ROT-13_Verschlüsselung_Reforged\bin\Debug\ROT-13_Verschlüsselung_Reforged.exe.config
+Z:\Programmierung\VisualStudio\Konsolenanwendungen\ROT-13_Verschlüsselung_Reforged\ROT-13_Verschlüsselung_Reforged\bin\Debug\ROT-13_Verschlüsselung_Reforged.exe
+Z:\Programmierung\VisualStudio\Konsolenanwendungen\ROT-13_Verschlüsselung_Reforged\ROT-13_Verschlüsselung_Reforged\bin\Debug\ROT-13_Verschlüsselung_Reforged.pdb
+Z:\Programmierung\VisualStudio\Konsolenanwendungen\ROT-13_Verschlüsselung_Reforged\ROT-13_Verschlüsselung_Reforged\obj\Debug\ROT-13_Verschlüsselung_Reforged.csprojResolveAssemblyReference.cache
+Z:\Programmierung\VisualStudio\Konsolenanwendungen\ROT-13_Verschlüsselung_Reforged\ROT-13_Verschlüsselung_Reforged\obj\Debug\ROT-13_Verschlüsselung_Reforged.exe
+Z:\Programmierung\VisualStudio\Konsolenanwendungen\ROT-13_Verschlüsselung_Reforged\ROT-13_Verschlüsselung_Reforged\obj\Debug\ROT-13_Verschlüsselung_Reforged.pdb
